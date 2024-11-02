@@ -43,10 +43,6 @@ I am a passionate learner exploring the exciting world of technology. With a str
 To view my portfolio, visit my live portfolio at:  
 👉 [my live portfolio](https://vigneshbs33.github.io/my-portfolio-p2/)  
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Thank you for visiting my portfolio! Feel free to reach out through my GitHub or LinkedIn for any collaborations or opportunities. Let's connect and create something amazing! 🚀
